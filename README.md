@@ -1,4 +1,4 @@
-# `<TODO: Replace with Project Title>`
+# `ReactionGame`
 
 ## Short Project Description
 
@@ -13,7 +13,7 @@ See [Concept Document](./doc/concept.md).
 ---
 
 ## Team
-
+Kauv Marcel
 > [!Note]
 > Replace this note with a short team description (mebers and their main responsibilites/tasks).
 
