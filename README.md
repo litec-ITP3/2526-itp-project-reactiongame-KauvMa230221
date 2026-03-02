@@ -14,6 +14,7 @@ See [Concept Document](./doc/concept.md).
 
 ## Team
 Kauv Marcel
+Moser Christoph
 > [!Note]
 > Replace this note with a short team description (mebers and their main responsibilites/tasks).
 
