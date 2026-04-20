@@ -20,11 +20,15 @@ Kauv Marcel:
 AI prompts: `How can I gap between the left and right contain`
 
 
-## Day 3 - 09.03.2025
+## Day 3 - 09.03.2026
 - I asked ChatGPT how the website should look like(NO CODE PROMPT!!!)
 - Working on the website
 - new Feat added: startGame homepage
 
+## Day 4 - 20.04.2026
+- Continued with the Website
+- Created a server.js in order to properly work with the micro controller
+- still not finished
 
 
 > [!Note]
